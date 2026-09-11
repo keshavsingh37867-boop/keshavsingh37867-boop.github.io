@@ -9,7 +9,7 @@ A modern, high-performance, dark-themed portfolio for **Keshav**, engineered bas
 - **Mobile:** +91 9518222617
 - **LinkedIn:** [linkedin.com/in/keshavsingh--](https://www.linkedin.com/in/keshavsingh--/)
 - **GitHub:** [github.com/keshavsingh37867-boop](https://github.com/keshavsingh37867-boop)
-- **Live Vercel URL:** https://keshav-portfolio-umber.vercel.app
+- **Live Vercel URL:** [keshav-portfolio-umber.vercel.app](https://keshav-portfolio-umber.vercel.app/)
 
 ---
 
